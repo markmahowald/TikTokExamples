@@ -10,7 +10,7 @@ namespace Loops
             List<char[]> arraysToSort = new List<char[]>()
             {
                 new char[7]{'z','y','x','w','v','u','t'}
-                 new char[3]{'c', 'b', 'a'}
+                , new char[3]{'c', 'b', 'a'}
             };
 
             
